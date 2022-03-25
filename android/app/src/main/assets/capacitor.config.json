@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "finger",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
